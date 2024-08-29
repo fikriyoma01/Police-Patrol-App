@@ -2,6 +2,8 @@
 
 Police Patrol App adalah aplikasi mobile yang dirancang untuk membantu petugas kepolisian dalam melakukan patroli, melaporkan insiden, dan mengoordinasikan kegiatan patroli secara efektif. Aplikasi ini memanfaatkan teknologi berbasis lokasi untuk melacak rute patroli, melaporkan insiden dengan bukti foto, dan memberikan laporan detail patroli.
 
+Dokumentasi lengkap proyek: [sini](https://github.com/fikriyoma01/Police-Patrol-App/blob/main/doc/dokumentasi_proyek/Police%20Patrol%20Management%20System-skpl.docx.pdf)
+
 ## Fitur
 
 - **Login dan Registrasi:** Pengguna dapat masuk dan membuat akun baru dengan pilihan peran (misalnya, Officer).
@@ -36,3 +38,9 @@ Police Patrol App adalah aplikasi mobile yang dirancang untuk membantu petugas k
 
    ```bash
    flutter run
+
+## Tampilan project
+![Fitur_preview](https://github.com/fikriyoma01/Police-Patrol-App/blob/main/doc/dokumentasi_proyek/Fitur_preview.png?raw=true)
+
+![Fitur_preview_2](https://github.com/fikriyoma01/Police-Patrol-App/blob/main/doc/dokumentasi_proyek/Fitur_preview_2.png?raw=true)
+
