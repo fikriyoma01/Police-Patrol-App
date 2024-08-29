@@ -24,7 +24,7 @@ Police Patrol App adalah aplikasi mobile yang dirancang untuk membantu petugas k
 1. **Kloning Repositori:**
 
    ```bash
-   git clone https://github.com/username/police-patrol-app.git
+   git clone https://github.com/fikriyoma01/Police-Patrol-App.git
    cd Police-Patrol-App-main
 
 2. **Install Dependencies:**
